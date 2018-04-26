@@ -1,0 +1,5 @@
+const SET_LOGIN_STATE = 'SET_LOGIN_STATE'
+
+export {
+  SET_LOGIN_STATE
+}
